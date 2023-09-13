@@ -6,6 +6,12 @@
   "scripts": {
     "test": "npx cypress run"
   },
+   "devDependencies": {
+   
+    "cypress": "^13.0.0",
+    
+    
+  },
   "author": "",
   "license": "ISC"
 }
