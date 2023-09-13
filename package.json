@@ -1,14 +1,14 @@
 {
-  "name": "cypressci",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "npx cypress run"
-  },
-   "devDependencies": {   
-    "cypress": "^13.2.0",   
-  },
-  "author": "",
-  "license": "ISC"
+   "name":"cypressci",
+   "version":"1.0.0",
+   "description":"",
+   "main":"index.js",
+   "scripts":{
+      "test":"npx cypress run"
+   },
+   "devDependencies":{
+      "cypress":"^13.2.0"
+   },
+   "author":"",
+   "license":"ISC"
 }
